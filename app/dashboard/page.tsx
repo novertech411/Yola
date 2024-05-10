@@ -54,31 +54,31 @@ function Page() {
     {
       id: 1,
       activity: "Reading",
-      progress: 75,
+      completed: 75,
       color: "#EFADF3", // Tomato color
     },
     {
       id: 2,
       activity: "Writing",
-      progress: 50,
+      completed: 50,
       color: "#00B7E9", // Steel Blue color
     },
     {
       id: 3,
       activity: "Exercise",
-      progress: 90,
+      completed: 90,
       color: "#3EC99E", // Lime Green color
     },
     {
       id: 4,
       activity: "Coding",
-      progress: 65,
+      completed: 65,
       color: "#837DFB", // Royal Blue color
     },
     {
       id: 5,
       activity: "Drawing",
-      progress: 30,
+      completed: 30,
       color: "#338BBD", // Hot Pink color
     },
   ];
